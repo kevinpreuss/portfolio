@@ -9,6 +9,8 @@ const data = [
   { text: 'JS'},
   { text: 'C#'},
   { text: 'GIT'},
+  { text: 'UNITY'},
+  { text: 'BLENDER'},
 ];
 
 const Acomplishments = () => (

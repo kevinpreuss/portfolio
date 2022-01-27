@@ -38,7 +38,7 @@ export const projects = [
     title: 'Japan Werewolf',
     description: "Japan Werewolf is a mini game written in C# made with Monogame. It was one of my first C# Game.",
     image: 'images/5.png',
-    tags: ['Blender'],
+    tags: ['Photoshop', 'C#', 'MonoGame'],
     source: 'https://drive.google.com/file/d/1NR6AHNZHb7FBTu3cnQlI1Ebz_tbvTBg5/view?usp=sharing',
     id: 4,
   },
