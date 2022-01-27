@@ -13,9 +13,6 @@ const Hero = (props) => (
         <SectionText>
         Junior Web and Game Developer.
         </SectionText>
-        <SectionText>
-        Audio and Video Creator.
-        </SectionText>
       </LeftSection>
     </Section>
   </>
