@@ -26,6 +26,22 @@ export const projects = [
     visit: 'https://#',
     id: 2,
   },
+  {
+    title: 'Blender Project',
+    description: "Short Blender animation movie about slav people in Slav KFC. This was a group project with 4 participants.",
+    image: 'images/4.png',
+    tags: ['Blender'],
+    visit: 'https://drive.google.com/file/d/1HBVLldzBEEaj4XbEvK-Knn5ccWhEQiar/view?usp=sharing',
+    id: 3,
+  },
+  {
+    title: 'Japan Werewolf',
+    description: "Japan Werewolf is a mini game written in C# made with Monogame. It was one of my first C# Game.",
+    image: 'images/5.png',
+    tags: ['Blender'],
+    source: 'https://drive.google.com/file/d/1NR6AHNZHb7FBTu3cnQlI1Ebz_tbvTBg5/view?usp=sharing',
+    id: 4,
+  },
 ];
 
 export const TimeLineData = [

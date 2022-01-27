@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-          I am a junior game developer working mainly with Unity in C#. Blender is only secondary for me, but still not unavoidable for my projects.
+          I am a junior web and game developer working mainly with Unity in C#. Blender is only secondary for me, but still not unavoidable for my projects.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

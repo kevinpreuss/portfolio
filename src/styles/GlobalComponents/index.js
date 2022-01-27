@@ -9,7 +9,7 @@ export const Section = styled.section`
   box-sizing: content-box;
   position: relative;
   overflow: hidden;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 20fr 1fr;
 
   @media ${(props) => props.theme.breakpoints.md} {
     padding: 24px 48px 0;
@@ -33,7 +33,7 @@ export const SectionTitle = styled.h2`
   background: linear-gradient(121.57deg, #FFFFFF 18.77%, rgba(255, 255, 255, 0.66) 60.15%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  margin-bottom: 16px;
+  margin-bottom: 40px;
   padding: ${(props) => props.main ? '58px 0 16px' : '0'};
 
   @media ${props => props.theme.breakpoints.md}{
@@ -59,7 +59,7 @@ export const SectionText = styled.p`
   font-size: 24px;
   line-height: 40px;
   font-weight: 300;
-  padding-bottom: 3.6rem;
+  padding-bottom: 10.6rem;
   color: rgba(255, 255, 255, 0.5);
 
   @media ${(props) => props.theme.breakpoints.md} {
