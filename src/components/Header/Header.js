@@ -16,20 +16,25 @@ const Header = () =>  (
     </Div1>
     <Div2>
       <li>
-        <Link href="https://kevinpreuss.github.io/portfolio/#projects">
+        <Link href="#projects">
           <NavLink>Projects</NavLink>
         </Link>
       </li>
       <li>
-        <Link href="https://kevinpreuss.github.io/portfolio/#tech">
+        <Link href="#tech">
           <NavLink>Technologies</NavLink>
         </Link>
       </li>        
       <li>
-        <Link href="https://kevinpreuss.github.io/portfolio/#about">
+        <Link href="#about">
           <NavLink>About</NavLink>
         </Link>
-      </li>          
+      </li>  
+      <li>
+        <Link href="#skills">
+          <NavLink>Skills</NavLink>
+        </Link>
+      </li>         
     </Div2>
       <Div3>
         <SocialIcons href="https://github.com/kevinpreuss">
@@ -38,9 +43,9 @@ const Header = () =>  (
         <SocialIcons href="https://www.instagram.com/genmashiro/">
           <AiFillInstagram size="3rem"/>
         </SocialIcons>
-        <SocialIcons href="https://drive.google.com/file/d/1Kj7Xfk0etfQL5GVCEMBXJhsyaR5TfBqr/view?usp=sharing">
-          <AiFillLinkedin size="3rem"/>
-        </SocialIcons>
+        <NavLink href="https://drive.google.com/file/d/1Kj7Xfk0etfQL5GVCEMBXJhsyaR5TfBqr/view?usp=sharing">
+          Resume
+        </NavLink>
       </Div3>
     </Container>
 );

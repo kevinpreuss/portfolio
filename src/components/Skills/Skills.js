@@ -8,13 +8,15 @@ const data = [
   { text: 'CSS'},
   { text: 'JS'},
   { text: 'C#'},
+  { text: 'PHP'},
+  { text: 'MYSQL'},
   { text: 'GIT'},
   { text: 'UNITY'},
   { text: 'BLENDER'},
 ];
 
 const Acomplishments = () => (
-  <Section>
+    <Section id="skills">
     <SectionTitle>Skills</SectionTitle>
     <Boxes>
       {data.map((card, index) => (

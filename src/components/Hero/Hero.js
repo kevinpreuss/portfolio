@@ -1,6 +1,7 @@
 import React from 'react';
 
-import { Section, SectionText, SectionTitle } from '../../styles/GlobalComponents';
+import { ButtonBack, Section, SectionText, SectionTitle } from '../../styles/GlobalComponents';
+import { NavLink } from '../Header/HeaderStyles';
 import { LeftSection } from './HeroStyles';
 
 const Hero = (props) => (
@@ -12,7 +13,7 @@ const Hero = (props) => (
         </SectionTitle>
         <SectionText>
         Junior Web and Game Developer.
-        </SectionText>
+        </SectionText>  
       </LeftSection>
     </Section>
   </>
