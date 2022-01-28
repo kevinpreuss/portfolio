@@ -1,8 +1,8 @@
 export const projects = [
   {
     title: 'Space.IO',
-    description:"My first JavaScript Game where you have to fight against the aliens and be aware of the asteroids. If they hit you, you will die immediately.",
-    image: 'images/2.png',
+    description:"My first JavaScript Game where you have to fight against the aliens and you have to be aware of the asteroids. If they hit you, you will die immediately.",
+    image: 'images/6.png',
     tags: ['HTML', 'JavaScript', 'Photoshop'],
     visit: 'https://#',
     id: 0,
@@ -51,6 +51,6 @@ export const projects = [
 
 export const TimeLineData = [
   { year: 2020, text: 'Started education as game developer at SRH', },
-  { year: 2021, text: 'Working as a junior software and game developer', },
-  { year: 2022, text: 'Working as a junior software and game developer', }
+  { year: 2021, text: 'Working as a junior web and game developer', },
+  { year: 2022, text: 'Working as a junior web and game developer', }
 ];

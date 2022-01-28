@@ -1,5 +1,5 @@
 import React from 'react';
-import { DiFirebase, DiReact, DiZend } from 'react-icons/di';
+import { DiFirebase, DiReact, DiUnitySmall, DiCode, DiLinux, DiPhotoshop } from 'react-icons/di';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
@@ -8,8 +8,8 @@ const Technologies = () =>  (
     <SectionDivider divider />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I've worked with a far range of technologies in the web development world.
-      From Back-end To Design
+      I've worked with a far range of technologies in the web and game development world.
+      From Back-end To Design and Animation.
     </SectionText>
     <List>
       <ListItem>
@@ -38,13 +38,49 @@ const Technologies = () =>  (
       </ListItem>
       <ListItem>
         <picture>
-          <DiZend size="3rem" />
+          <DiUnitySmall size="3rem" />
         </picture>
         <ListContainer>
           <ListTitle>Unity</ListTitle>
           <ListParagraph>
             Experience with <br />
             tools like Unity
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+        <picture>
+          <DiCode size="3rem" />
+        </picture>
+        <ListContainer>
+          <ListTitle>MonoGame</ListTitle>
+          <ListParagraph>
+            Experience with <br />
+            C# and MGCB Editor
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+        <picture>
+          <DiLinux size="3rem" />
+        </picture>
+        <ListContainer>
+          <ListTitle>Linux</ListTitle>
+          <ListParagraph>
+            Experience with <br />
+            Debian and Arch
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+        <picture>
+          <DiPhotoshop size="3rem" />
+        </picture>
+        <ListContainer>
+          <ListTitle>Adobe</ListTitle>
+          <ListParagraph>
+            Experience with <br />
+            Photoshop, Premiere Pro and After Effects
           </ListParagraph>
         </ListContainer>
       </ListItem>

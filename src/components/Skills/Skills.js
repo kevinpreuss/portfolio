@@ -13,6 +13,8 @@ const data = [
   { text: 'GIT'},
   { text: 'UNITY'},
   { text: 'BLENDER'},
+  { text: 'LINUX'},
+  { text: 'ADOBE'},
 ];
 
 const Acomplishments = () => (
