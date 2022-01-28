@@ -1,11 +1,19 @@
 export const projects = [
   {
+    title: 'Space.IO',
+    description:"My first JavaScript Game where you have to fight against the aliens and be aware of the asteroids. If they hit you, you will die immediately.",
+    image: 'images/2.png',
+    tags: ['HTML', 'JavaScript', 'Photoshop'],
+    visit: 'https://#',
+    id: 0,
+  },
+  {
     title: 'Yet Another Zombie Game',
     description:"My first Unity project where you can't get around the zombies. In addition, you have to find a key that opens a certain door.",
     image: 'images/2.png',
     tags: ['C#', 'Blender', 'Unity'],
     visit: 'https://#',
-    id: 0,
+    id: 1,
   },
   {
     title: 'Alien Invaders',
@@ -13,7 +21,7 @@ export const projects = [
       image: 'images/1.png',
       tags: ['C#', 'Blender', 'Unity'],
     visit: 'https://#',
-    id: 1,
+    id: 2,
   },
   {
     title: 'VRProject',
@@ -21,7 +29,7 @@ export const projects = [
     image: 'images/3.png',
     tags: ['C#', 'Blender', 'Unity'],
     visit: 'https://#',
-    id: 2,
+    id: 3,
   },
   {
     title: 'Blender Project',
@@ -29,7 +37,7 @@ export const projects = [
     image: 'images/4.png',
     tags: ['Blender'],
     visit: 'https://#',
-    id: 3,
+    id: 4,
   },
   {
     title: 'Japan Werewolf',
@@ -37,7 +45,7 @@ export const projects = [
     image: 'images/5.png',
     tags: ['Photoshop', 'C#', 'MGCB Editor'],
     visit: 'https://#',
-    id: 4,
+    id: 5,
   },
 ];
 
