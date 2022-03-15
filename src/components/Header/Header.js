@@ -43,7 +43,7 @@ const Header = () =>  (
         <SocialIcons href="https://www.instagram.com/genmashiro/">
           <AiFillInstagram size="3rem"/>
         </SocialIcons>
-        <NavLink href="https://kevinpreuss.github.io/portfolio/LebenslaufPreuss.pdf">
+        <NavLink href="https://drive.google.com/file/d/1Kj7Xfk0etfQL5GVCEMBXJhsyaR5TfBqr/view?usp=sharing">
           Resume
         </NavLink>
       </Div3>
