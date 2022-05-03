@@ -1,7 +1,7 @@
 import React from 'react';
 
 import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalComponents';
-import { Box, Boxes, BoxNum, BoxText } from './SkillsStyles';
+import { Box, Boxes, BoxText } from './SkillsStyles';
 
 const data = [
   { text: 'HTML'},
@@ -14,6 +14,7 @@ const data = [
   { text: 'UNITY'},
   { text: 'BLENDER'},
   { text: 'LINUX'},
+  { text: 'DOCKER'},
   { text: 'ADOBE'},
 ];
 
