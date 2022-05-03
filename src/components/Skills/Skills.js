@@ -4,13 +4,14 @@ import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalCompon
 import { Box, Boxes, BoxText } from './SkillsStyles';
 
 const data = [
-  { text: 'HTML'},
-  { text: 'CSS'},
+  { text: 'HTML5'},
+  { text: 'CSS3'},
   { text: 'JS'},
   { text: 'C#'},
   { text: 'PHP'},
   { text: 'MYSQL'},
   { text: 'GIT'},
+  { text: 'DOCKER'},
   { text: 'UNITY'},
   { text: 'BLENDER'},
   { text: 'LINUX'},

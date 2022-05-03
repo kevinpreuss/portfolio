@@ -47,6 +47,14 @@ export const projects = [
     visit: 'https://#',
     id: 5,
   },
+  {
+    title: 'Backrooms',
+    description: "Backrooms is a psychological horror game and was created as a graduation project. It was made with Unity and Blender.",
+    image: 'images/7.png',
+    tags: ['C#', 'Blender', 'Unity'],
+    visit: 'https://#',
+    id: 6,
+  },
 ];
 
 export const TimeLineData = [
