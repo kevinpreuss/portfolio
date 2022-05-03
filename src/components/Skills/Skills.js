@@ -11,6 +11,7 @@ const data = [
   { text: 'PHP'},
   { text: 'MYSQL'},
   { text: 'GIT'},
+  { text: 'DOCKER'},
   { text: 'UNITY'},
   { text: 'BLENDER'},
   { text: 'LINUX'},
