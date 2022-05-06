@@ -15,7 +15,6 @@ const data = [
   { text: 'UNITY'},
   { text: 'BLENDER'},
   { text: 'LINUX'},
-  { text: 'DOCKER'},
   { text: 'ADOBE'},
 ];
 
