@@ -11,7 +11,7 @@ const Hero = (props) => (
           Kevin Alexander Preuss
         </SectionTitle>
         <SectionText>
-          <p>Junior Web and Game Developer.</p>
+          Junior Web and Game Developer.
         </SectionText>
       </LeftSection>
     </Section>
