@@ -55,6 +55,14 @@ export const projects = [
     visit: 'https://#',
     id: 6,
   },
+  {
+    title: 'Cards of Destiny',
+    description: "Cards of Destiny is a VR Game and was created during an internship. It was made with Unity and Blender.",
+    image: 'images/8.png',
+    tags: ['C#', 'Blender', 'Unity'],
+    visit: 'https://#',
+    id: 7,
+  },
 ];
 
 export const TimeLineData = [
